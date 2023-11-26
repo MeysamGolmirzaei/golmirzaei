@@ -1,0 +1,15 @@
+G:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeicore\obj\Debug\net5.0\golmirzaeicore.csproj.AssemblyReference.cache
+G:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeicore\obj\Debug\net5.0\golmirzaeicore.GeneratedMSBuildEditorConfig.editorconfig
+G:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeicore\obj\Debug\net5.0\golmirzaeicore.AssemblyInfoInputs.cache
+G:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeicore\obj\Debug\net5.0\golmirzaeicore.AssemblyInfo.cs
+G:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeicore\obj\Debug\net5.0\golmirzaeicore.csproj.CoreCompileInputs.cache
+g:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeicore\bin\Debug\net5.0\golmirzaeiCore.deps.json
+g:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeicore\bin\Debug\net5.0\golmirzaeiCore.dll
+g:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeicore\bin\Debug\net5.0\ref\golmirzaeiCore.dll
+g:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeicore\bin\Debug\net5.0\golmirzaeiCore.pdb
+g:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeicore\bin\Debug\net5.0\golmirzaeidatalayer.dll
+g:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeicore\bin\Debug\net5.0\golmirzaeidatalayer.pdb
+g:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeicore\obj\Debug\net5.0\golmirzaeiCore.csproj.CopyComplete
+g:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeicore\obj\Debug\net5.0\golmirzaeiCore.dll
+g:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeicore\obj\Debug\net5.0\ref\golmirzaeiCore.dll
+g:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeicore\obj\Debug\net5.0\golmirzaeiCore.pdb

@@ -1,0 +1,15 @@
+G:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeidatalayer\obj\Debug\net5.0\golmirzaeidatalayer.csproj.AssemblyReference.cache
+G:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeidatalayer\obj\Debug\net5.0\golmirzaeidatalayer.GeneratedMSBuildEditorConfig.editorconfig
+G:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeidatalayer\obj\Debug\net5.0\golmirzaeidatalayer.AssemblyInfoInputs.cache
+G:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeidatalayer\obj\Debug\net5.0\golmirzaeidatalayer.AssemblyInfo.cs
+G:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeidatalayer\obj\Debug\net5.0\golmirzaeidatalayer.csproj.CoreCompileInputs.cache
+G:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeidatalayer\bin\Debug\net5.0\golmirzaeidatalayer.deps.json
+G:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeidatalayer\bin\Debug\net5.0\golmirzaeidatalayer.runtimeconfig.json
+G:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeidatalayer\bin\Debug\net5.0\golmirzaeidatalayer.runtimeconfig.dev.json
+G:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeidatalayer\bin\Debug\net5.0\golmirzaeidatalayer.dll
+G:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeidatalayer\bin\Debug\net5.0\ref\golmirzaeidatalayer.dll
+G:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeidatalayer\bin\Debug\net5.0\golmirzaeidatalayer.pdb
+G:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeidatalayer\obj\Debug\net5.0\golmirzaeidatalayer.dll
+G:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeidatalayer\obj\Debug\net5.0\ref\golmirzaeidatalayer.dll
+G:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeidatalayer\obj\Debug\net5.0\golmirzaeidatalayer.pdb
+G:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeidatalayer\obj\Debug\net5.0\golmirzaeidatalayer.genruntimeconfig.cache

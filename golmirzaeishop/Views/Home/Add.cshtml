@@ -1,0 +1,20 @@
+@model  golmirzaeiCore.DTOs.User.Vm_User;
+<form action="/home/add" method="Post">
+<label asp-for="Vm_Name"></label>
+ <input asp-for="Vm_Name" >
+ <span class="text-danger" asp-Validation-for="Vm_Name"></span>
+ <br>
+<label asp-for="Vm_Family"></label>
+ <input asp-for="Vm_Family" >
+ <span class="text-danger" asp-Validation-for="Vm_Family"></span>
+ <br>
+<label asp-for="Vm_Password"></label>
+ <input asp-for="Vm_Password" >
+ <span class="text-danger" asp-Validation-for="Vm_Password"></span>
+ <br>
+<label asp-for="Vm_RePassword"></label>
+ <input asp-for="Vm_RePassword" >
+ <span class="text-danger" asp-Validation-for="Vm_RePassword"></span>
+ <br>
+ <button type ="submit">ارسال اطلاعات</button>
+</form>

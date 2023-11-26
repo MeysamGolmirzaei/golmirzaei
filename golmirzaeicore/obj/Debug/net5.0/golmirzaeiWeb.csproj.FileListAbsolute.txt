@@ -1,0 +1,15 @@
+g:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeicore\obj\Debug\net5.0\golmirzaeishop.csproj.AssemblyReference.cache
+g:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeicore\obj\Debug\net5.0\golmirzaeishop.GeneratedMSBuildEditorConfig.editorconfig
+g:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeicore\obj\Debug\net5.0\golmirzaeishop.AssemblyInfoInputs.cache
+g:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeicore\obj\Debug\net5.0\golmirzaeishop.AssemblyInfo.cs
+g:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeicore\obj\Debug\net5.0\golmirzaeishop.csproj.CoreCompileInputs.cache
+g:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeicore\bin\Debug\net5.0\golmirzaeishop.deps.json
+g:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeicore\bin\Debug\net5.0\golmirzaeishop.dll
+g:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeicore\bin\Debug\net5.0\ref\golmirzaeishop.dll
+g:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeicore\bin\Debug\net5.0\golmirzaeishop.pdb
+g:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeicore\bin\Debug\net5.0\golmirzaeidatalayer.dll
+g:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeicore\bin\Debug\net5.0\golmirzaeidatalayer.pdb
+g:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeicore\obj\Debug\net5.0\golmirzaeishop.csproj.CopyComplete
+g:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeicore\obj\Debug\net5.0\golmirzaeishop.dll
+g:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeicore\obj\Debug\net5.0\ref\golmirzaeishop.dll
+g:\word\OneDrive\Desktop\golmirzaei\golmirzaei\golmirzaeicore\obj\Debug\net5.0\golmirzaeishop.pdb

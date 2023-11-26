@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+@if(ViewBag.Show != null)
+{
+    foreach(var item in ViewBag.Show)
+    {
+        <p>@item.Id</p>
+        <p>@item.Name</p>
+        <p>@item.Family</p>
+        <p>@item.Status</p>
+    }
+}
