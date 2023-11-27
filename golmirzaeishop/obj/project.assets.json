@@ -1520,17 +1520,17 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "golmirzaeicore/1.0.0": {
+      "golmirzaeiCore/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "golmirzaeidatalayer": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/golmirzaeicore.dll": {}
+          "bin/placeholder/golmirzaeiCore.dll": {}
         },
         "runtime": {
-          "bin/placeholder/golmirzaeicore.dll": {}
+          "bin/placeholder/golmirzaeiCore.dll": {}
         }
       },
       "golmirzaeidatalayer/1.0.0": {
@@ -5815,10 +5815,10 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "golmirzaeicore/1.0.0": {
+    "golmirzaeiCore/1.0.0": {
       "type": "project",
-      "path": "../golmirzaeicore/golmirzaeicore.csproj",
-      "msbuildProject": "../golmirzaeicore/golmirzaeicore.csproj"
+      "path": "../golmirzaeicore/golmirzaeiCore.csproj",
+      "msbuildProject": "../golmirzaeicore/golmirzaeiCore.csproj"
     },
     "golmirzaeidatalayer/1.0.0": {
       "type": "project",
@@ -5832,7 +5832,7 @@
       "Microsoft.EntityFrameworkCore.Design >= 5.0.17",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.17",
       "Microsoft.EntityFrameworkCore.Tools >= 5.0.17",
-      "golmirzaeicore >= 1.0.0",
+      "golmirzaeiCore >= 1.0.0",
       "golmirzaeidatalayer >= 1.0.0"
     ]
   },
@@ -5861,8 +5861,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "g:\\word\\OneDrive\\Desktop\\golmirzaei\\golmirzaei\\golmirzaeicore\\golmirzaeicore.csproj": {
-              "projectPath": "g:\\word\\OneDrive\\Desktop\\golmirzaei\\golmirzaei\\golmirzaeicore\\golmirzaeicore.csproj"
+            "g:\\word\\OneDrive\\Desktop\\golmirzaei\\golmirzaei\\golmirzaeicore\\golmirzaeiCore.csproj": {
+              "projectPath": "g:\\word\\OneDrive\\Desktop\\golmirzaei\\golmirzaei\\golmirzaeicore\\golmirzaeiCore.csproj"
             },
             "g:\\word\\OneDrive\\Desktop\\golmirzaei\\golmirzaei\\golmirzaeidatalayer\\golmirzaeidatalayer.csproj": {
               "projectPath": "g:\\word\\OneDrive\\Desktop\\golmirzaei\\golmirzaei\\golmirzaeidatalayer\\golmirzaeidatalayer.csproj"

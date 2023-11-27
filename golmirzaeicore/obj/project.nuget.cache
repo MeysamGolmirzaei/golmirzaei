@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GtGYxjGv0nhu0ujVZenqMlWrONZOg/JQqlui6BU7cCru8PSHHSv6Z/16pfhKpZnFKiDqpZ4JKLCs8tzi+j8wcw==",
+  "dgSpecHash": "uFLFJDqKRZ35xrnvDWWmgyEJdTpaTD4FbyIj4RdNdlRsZjwADS8OqOipMQPKuVyj5uazLRfX+vtVcvOORveOaw==",
   "success": true,
-  "projectFilePath": "g:\\word\\OneDrive\\Desktop\\golmirzaei\\golmirzaei\\golmirzaeicore\\golmirzaeicore.csproj",
+  "projectFilePath": "g:\\word\\OneDrive\\Desktop\\golmirzaei\\golmirzaei\\golmirzaeicore\\golmirzaeiCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Araz\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Araz\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

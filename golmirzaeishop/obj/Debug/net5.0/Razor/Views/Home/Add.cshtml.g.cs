@@ -27,7 +27,7 @@ using golmirzaeishop.Models;
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"f5c2c953a430d5dfeb9c8ea86b42581e858ce962", @"/Views/Home/Add.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"8594342da98c53ae355b4614a7e49c575d024efc", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"9c624469b3418b8f3386f3175999c05817677f03", @"/Views/_ViewImports.cshtml")]
     public class Views_Home_Add : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<golmirzaeiCore.DTOs.User.Vm_User>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("class", new global::Microsoft.AspNetCore.Html.HtmlString("text-danger"), global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);

@@ -4,12 +4,12 @@
     "g:\\word\\OneDrive\\Desktop\\golmirzaei\\golmirzaei\\golmirzaeishop\\golmirzaeishop.csproj": {}
   },
   "projects": {
-    "g:\\word\\OneDrive\\Desktop\\golmirzaei\\golmirzaei\\golmirzaeicore\\golmirzaeicore.csproj": {
+    "g:\\word\\OneDrive\\Desktop\\golmirzaei\\golmirzaei\\golmirzaeicore\\golmirzaeiCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "g:\\word\\OneDrive\\Desktop\\golmirzaei\\golmirzaei\\golmirzaeicore\\golmirzaeicore.csproj",
-        "projectName": "golmirzaeicore",
-        "projectPath": "g:\\word\\OneDrive\\Desktop\\golmirzaei\\golmirzaei\\golmirzaeicore\\golmirzaeicore.csproj",
+        "projectUniqueName": "g:\\word\\OneDrive\\Desktop\\golmirzaei\\golmirzaei\\golmirzaeicore\\golmirzaeiCore.csproj",
+        "projectName": "golmirzaeiCore",
+        "projectPath": "g:\\word\\OneDrive\\Desktop\\golmirzaei\\golmirzaei\\golmirzaeicore\\golmirzaeiCore.csproj",
         "packagesPath": "C:\\Users\\Araz\\.nuget\\packages\\",
         "outputPath": "g:\\word\\OneDrive\\Desktop\\golmirzaei\\golmirzaei\\golmirzaeicore\\obj\\",
         "projectStyle": "PackageReference",
@@ -156,8 +156,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "g:\\word\\OneDrive\\Desktop\\golmirzaei\\golmirzaei\\golmirzaeicore\\golmirzaeicore.csproj": {
-                "projectPath": "g:\\word\\OneDrive\\Desktop\\golmirzaei\\golmirzaei\\golmirzaeicore\\golmirzaeicore.csproj"
+              "g:\\word\\OneDrive\\Desktop\\golmirzaei\\golmirzaei\\golmirzaeicore\\golmirzaeiCore.csproj": {
+                "projectPath": "g:\\word\\OneDrive\\Desktop\\golmirzaei\\golmirzaei\\golmirzaeicore\\golmirzaeiCore.csproj"
               },
               "g:\\word\\OneDrive\\Desktop\\golmirzaei\\golmirzaei\\golmirzaeidatalayer\\golmirzaeidatalayer.csproj": {
                 "projectPath": "g:\\word\\OneDrive\\Desktop\\golmirzaei\\golmirzaei\\golmirzaeidatalayer\\golmirzaeidatalayer.csproj"
